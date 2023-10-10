@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stack容器", "stack容器\stack容器.vcxproj", "{960F6F39-5284-4D89-BEA7-421E2915670E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960F6F39-5284-4D89-BEA7-421E2915670E}.Debug|x64.ActiveCfg = Debug|x64
+		{960F6F39-5284-4D89-BEA7-421E2915670E}.Debug|x64.Build.0 = Debug|x64
+		{960F6F39-5284-4D89-BEA7-421E2915670E}.Debug|x86.ActiveCfg = Debug|Win32
+		{960F6F39-5284-4D89-BEA7-421E2915670E}.Debug|x86.Build.0 = Debug|Win32
+		{960F6F39-5284-4D89-BEA7-421E2915670E}.Release|x64.ActiveCfg = Release|x64
+		{960F6F39-5284-4D89-BEA7-421E2915670E}.Release|x64.Build.0 = Release|x64
+		{960F6F39-5284-4D89-BEA7-421E2915670E}.Release|x86.ActiveCfg = Release|Win32
+		{960F6F39-5284-4D89-BEA7-421E2915670E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3DA121B-B912-4982-90D1-F3B9C16E93A8}
+	EndGlobalSection
+EndGlobal
